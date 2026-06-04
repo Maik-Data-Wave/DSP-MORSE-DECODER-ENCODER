@@ -1,6 +1,6 @@
 # DSP-MORSE-DECODER-ENCODER
 
-Einfaches Morsen in HTML mit Auto WPM Erkennung. Die Software arbeitet mit einer WASM datei für die schnelle decodierung!
+Einfaches Morsen in HTML mit Auto WPM Erkennung. Die Software arbeitet mit einer WASM Datei (C++) in HTML für die schnelle decodierung!
 Viel Spass beim testen :-) Über ein Feedback würde ich mich freuen :-)
 
 <img width="1917" height="923" alt="Bildschirmfoto_2026-06-04_14-12-02" src="https://github.com/user-attachments/assets/5ae2e628-d863-4e82-ab62-4a1ab8bd4a3d" />
