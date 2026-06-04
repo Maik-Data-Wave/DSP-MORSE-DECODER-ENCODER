@@ -11,7 +11,8 @@ Die Einbindung, Verknüpfung oder Nutzung der Software als Drittanbieter-Kompone
 3. AUSNAHMEN & ANFRAGEN
 Jegliche Abweichung von diesen Bedingungen bedarf der ausdrücklichen, schriftlichen Genehmigung des Urhebers. Anfragen sind per E-Mail zu richten an: maik.hb1dig@gmail.com.
 
-4. WEITERGABEDie Weitergabe der Software an Dritte ist erlaubt, sofern dies unentgeltlich geschieht. Dabei MUSS diese Lizenzdatei (LIZENZ.txt) zwingend und unverändert mit der Software weitergegeben werden.
+4. WEITERGABE 
+Die Weitergabe der Software an Dritte ist erlaubt, sofern dies unentgeltlich geschieht. Dabei MUSS diese Lizenzdatei (LIZENZ.txt) zwingend und unverändert mit der Software weitergegeben werden.
 
 5. HAFTUNGSAUSSCHLUSS (SOFTWARE & DATEN)
 Die Software wird "wie besehen" bereitgestellt, ohne jegliche ausdrückliche oder implizite Garantie.
